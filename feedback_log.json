@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "1234567890",
+    "message": "This is a test feedback entry. The system is working well!",
+    "type": "general",
+    "rating": 5,
+    "timestamp": "2024-01-15 10:30:00",
+    "status": "read"
+  },
+  {
+    "name": "Farmer John",
+    "email": "john.farmer@example.com",
+    "phone": "9876543210",
+    "message": "Great system! Helped me identify early blight in my tomato plants. Saved my crop!",
+    "type": "suggestion",
+    "rating": 5,
+    "timestamp": "2024-01-14 15:45:00",
+    "status": "responded"
+  },
+  {
+    "name": "Agricultural Student",
+    "email": "student.agri@university.edu",
+    "phone": "",
+    "message": "Can you add more diseases for citrus plants? Also, the camera feature is very useful in the field.",
+    "type": "suggestion",
+    "rating": 4,
+    "timestamp": "2024-01-13 09:20:00",
+    "status": "pending"
+  },
+  {
+    "name": "Botanist",
+    "email": "botanist.research@institute.org",
+    "phone": "5551234567",
+    "message": "The disease detection accuracy is impressive. Would like to see more detailed treatment information.",
+    "type": "feedback",
+    "rating": 4,
+    "timestamp": "2024-01-12 14:10:00",
+    "status": "read"
+  },
+  {
+    "name": "System Administrator",
+    "email": "admin@farm.com",
+    "phone": "4445556666",
+    "message": "Testing the feedback system. Email notifications are working correctly.",
+    "type": "test",
+    "rating": 5,
+    "timestamp": "2024-01-11 11:05:00",
+    "status": "archived"
+  },
+  {
+    "name": "dileep",
+    "email": "dilee@gmail.com",
+    "phone": "+91456789032",
+    "message": "nvjxg",
+    "type": "general",
+    "rating": 0,
+    "timestamp": "2025-12-31 23:50:23"
+  },
+  {
+    "name": "dileep",
+    "email": "dilee@gmail.com",
+    "phone": "+91456789032",
+    "message": ",.knuv",
+    "type": "dataset",
+    "rating": 0,
+    "timestamp": "2026-01-01 01:01:10"
+  }
+]

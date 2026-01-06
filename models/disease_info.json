@@ -1,0 +1,86 @@
+{
+    "Apple_Scab": {
+        "symptoms": "Olive-green to black spots on leaves and fruits, leaves may yellow and drop prematurely.",
+        "treatment": "Apply fungicides containing myclobutanil or triforine. Remove infected leaves.",
+        "prevention": "Plant resistant varieties, ensure good air circulation, remove fallen leaves.",
+        "chemical_control": "Captan, Mancozeb, Myclobutanil (Rally), Trifloxystrobin (Flint)",
+        "organic_control": "Neem oil, Baking soda solution, Copper fungicide, Sulfur sprays"
+    },
+    "Apple_Black_Rot": {
+        "symptoms": "Brown spots on leaves, black rot on fruits with concentric rings.",
+        "treatment": "Prune infected branches, apply fungicide during growing season.",
+        "prevention": "Remove infected fruits, practice good sanitation, avoid wounding fruits.",
+        "chemical_control": "Thiophanate-methyl, Propiconazole, Captan",
+        "organic_control": "Copper fungicide, Sulfur dust, Remove infected plant parts"
+    },
+    "Apple_healthy": {
+        "symptoms": "No visible disease symptoms. Leaves appear green and healthy.",
+        "treatment": "No treatment required. Continue regular care.",
+        "prevention": "Regular monitoring, balanced fertilization, proper watering.",
+        "chemical_control": "Not required",
+        "organic_control": "Continue organic practices for prevention"
+    },
+    "Tomato_Early_blight": {
+        "symptoms": "Dark brown spots with concentric rings on lower leaves.",
+        "treatment": "Remove infected leaves, apply fungicide every 7-10 days.",
+        "prevention": "Crop rotation, proper spacing, avoid overhead watering.",
+        "chemical_control": "Chlorothalonil (Bravo), Mancozeb, Azoxystrobin (Quadris)",
+        "organic_control": "Copper fungicide, Bacillus subtilis (Serenade), Compost tea"
+    },
+    "Tomato_Late_blight": {
+        "symptoms": "Water-soaked spots, white mold under leaves during humid conditions.",
+        "treatment": "Immediate removal of infected plants, apply fungicide.",
+        "prevention": "Use resistant varieties, avoid overhead irrigation, ensure good drainage.",
+        "chemical_control": "Metalaxyl, Mancozeb, Chlorothalonil",
+        "organic_control": "Copper fungicides, Remove and destroy infected plants"
+    },
+    "Tomato_healthy": {
+        "symptoms": "No disease symptoms present.",
+        "treatment": "Maintain current care practices.",
+        "prevention": "Regular pruning, proper watering, balanced fertilization.",
+        "chemical_control": "Not required",
+        "organic_control": "Neem oil preventive sprays"
+    },
+    "Potato_Early_blight": {
+        "symptoms": "Brown spots with target-like rings on leaves, yellowing.",
+        "treatment": "Apply fungicides at first sign, remove infected leaves.",
+        "prevention": "Crop rotation, remove plant debris, use certified seed potatoes.",
+        "chemical_control": "Chlorothalonil, Azoxystrobin, Pyraclostrobin",
+        "organic_control": "Copper fungicide, Bacillus subtilis, Proper sanitation"
+    },
+    "Potato_Late_blight": {
+        "symptoms": "Black lesions on leaves and stems, rapid plant destruction.",
+        "treatment": "Destroy infected plants immediately, apply fungicide preventively.",
+        "prevention": "Plant resistant varieties, ensure good air circulation.",
+        "chemical_control": "Mancozeb, Metalaxyl-M, Chlorothalonil",
+        "organic_control": "Copper sprays, Remove infected plants immediately"
+    },
+    "Potato_healthy": {
+        "symptoms": "Healthy foliage with no disease symptoms.",
+        "treatment": "Continue regular potato care.",
+        "prevention": "Regular inspection for pests and diseases.",
+        "chemical_control": "Not required",
+        "organic_control": "Healthy soil management, crop rotation"
+    },
+    "Grape_Black_rot": {
+        "symptoms": "Brown spots on leaves, black mummies on fruits.",
+        "treatment": "Apply fungicides during growing season, remove infected fruits.",
+        "prevention": "Proper pruning, remove infected plant material, good air flow.",
+        "chemical_control": "Myclobutanil, Tebuconazole, Mancozeb",
+        "organic_control": "Sulfur, Copper sprays, Remove infected berries"
+    },
+    "Corn_Common_rust": {
+        "symptoms": "Reddish-brown pustules on both leaf surfaces.",
+        "treatment": "Apply fungicide if infection is severe.",
+        "prevention": "Plant resistant hybrids, avoid late planting.",
+        "chemical_control": "Triazoles, Strobilurins, Propiconazole",
+        "organic_control": "Sulfur dust, Remove infected leaves, Crop rotation"
+    },
+    "Strawberry_Leaf_scorch": {
+        "symptoms": "Purple spots on leaves that turn brown and scorched.",
+        "treatment": "Remove infected leaves, apply appropriate fungicide.",
+        "prevention": "Plant resistant varieties, ensure proper spacing.",
+        "chemical_control": "Captan, Thiophanate-methyl, Azoxystrobin",
+        "organic_control": "Copper fungicide, Neem oil, Proper sanitation"
+    }
+}
