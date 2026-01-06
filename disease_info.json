@@ -1,0 +1,222 @@
+{
+  "Apple_Scab": {
+    "description": "A fungal disease causing olive-green to black spots on leaves and fruit",
+    "causes": ["Fungus Venturia inaequalis", "Wet spring weather", "Poor air circulation", "Infected plant debris"],
+    "preventions": ["Plant resistant varieties", "Remove fallen leaves in autumn", "Proper pruning for air flow", "Avoid overhead irrigation"],
+    "treatments": ["Apply fungicides at green tip stage", "Continue sprays until petal fall", "Copper-based fungicides", "Remove infected fruits"],
+    "organic_remedies": ["Baking soda spray (1 tbsp/gallon)", "Neem oil solution", "Sulfur dust", "Garlic extract spray"],
+    "chemical_controls": ["Myclobutanil", "Trifloxystrobin", "Captan", "Mancozeb"],
+    "severity": "High",
+    "affected_parts": ["Leaves", "Fruits", "Twigs"],
+    "season": "Spring to early summer"
+  },
+  "Apple_Black_Rot": {
+    "description": "Fungal disease causing fruit rot and leaf spots with concentric rings",
+    "causes": ["Botryosphaeria obtusa fungus", "Warm humid conditions", "Wounded fruit", "Poor orchard sanitation"],
+    "preventions": ["Remove infected mummies", "Prune dead wood", "Avoid wounding fruit", "Proper spacing"],
+    "treatments": ["Apply fungicides during bloom", "Remove cankered branches", "Copper sprays in dormancy", "Sanitation pruning"],
+    "organic_remedies": ["Bordeaux mixture", "Lime sulfur", "Copper fungicide", "Improved air circulation"],
+    "chemical_controls": ["Thiophanate-methyl", "Tebuconazole", "Fluopyram", "Pyraclostrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Fruits", "Leaves", "Branches"],
+    "season": "Summer"
+  },
+  "Apple_Cedar_apple_rust": {
+    "description": "Rust disease with yellow-orange spots on leaves and fruit",
+    "causes": ["Gymnosporangium juniperi-virginianae", "Presence of juniper hosts", "Wet spring weather", "High humidity"],
+    "preventions": ["Remove nearby junipers", "Plant resistant varieties", "Space plants properly", "Avoid overhead watering"],
+    "treatments": ["Apply fungicides at pink bud stage", "Protectant sprays", "Systemic fungicides", "Regular monitoring"],
+    "organic_remedies": ["Sulfur sprays", "Copper fungicide", "Neem oil", "Garlic and pepper spray"],
+    "chemical_controls": ["Myclobutanil", "Tebuconazole", "Trifloxystrobin", "Azoxystrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves", "Fruits", "Twigs"],
+    "season": "Spring"
+  },
+  "Apple_Healthy": {
+    "description": "Healthy apple plant with no visible disease symptoms",
+    "causes": ["Proper care", "Good growing conditions", "Disease prevention"],
+    "preventions": ["Regular monitoring", "Proper nutrition", "Good air circulation", "Sanitation"],
+    "treatments": ["Continue preventive care", "Regular watering", "Balanced fertilization", "Prune as needed"],
+    "organic_remedies": ["Compost tea", "Seaweed extract", "Fish emulsion", "Proper mulching"],
+    "chemical_controls": ["None needed", "Preventive fungicides if high risk"],
+    "severity": "None",
+    "affected_parts": "None",
+    "season": "All seasons"
+  },
+  "Tomato_Early_blight": {
+    "description": "Fungal disease with concentric target-like rings on leaves",
+    "causes": ["Alternaria solani fungus", "Warm humid weather", "Poor plant nutrition", "Infected debris"],
+    "preventions": ["Crop rotation", "Stake plants", "Remove lower leaves", "Avoid overhead watering"],
+    "treatments": ["Apply fungicides preventively", "Copper-based sprays", "Remove infected leaves", "Improve air flow"],
+    "organic_remedies": ["Baking soda spray", "Milk solution", "Compost tea", "Neem oil"],
+    "chemical_controls": ["Chlorothalonil", "Azoxystrobin", "Mancozeb", "Copper hydroxide"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves", "Stems", "Fruits"],
+    "season": "Throughout growing season"
+  },
+  "Tomato_Late_blight": {
+    "description": "Devastating disease causing rapid wilting and dark lesions",
+    "causes": ["Phytophthora infestans", "Cool wet weather", "High humidity", "Infected transplants"],
+    "preventions": ["Plant resistant varieties", "Proper spacing", "Avoid overhead irrigation", "Remove volunteers"],
+    "treatments": ["Apply fungicides preventively", "Remove infected plants", "Copper sprays", "Systemic fungicides"],
+    "organic_remedies": ["Copper fungicide", "Bicarbonates", "Garlic extract", "Improved drainage"],
+    "chemical_controls": ["Metalaxyl", "Famoxadone", "Cymoxanil", "Fluazinam"],
+    "severity": "High",
+    "affected_parts": ["Leaves", "Stems", "Fruits"],
+    "season": "Cool wet periods"
+  },
+  "Tomato_Leaf_Mold": {
+    "description": "Yellow patches on upper leaves with fuzzy gray mold underneath",
+    "causes": ["Fulvia fulva fungus", "High humidity", "Poor air circulation", "Crowded plants"],
+    "preventions": ["Reduce humidity", "Increase air flow", "Space plants properly", "Water at base"],
+    "treatments": ["Apply fungicides", "Remove affected leaves", "Improve ventilation", "Reduce watering"],
+    "organic_remedies": ["Baking soda spray", "Milk solution", "Sulfur dust", "Neem oil"],
+    "chemical_controls": ["Chlorothalonil", "Mancozeb", "Copper fungicide", "Azoxystrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves"],
+    "season": "Humid conditions"
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "description": "Small circular spots with dark borders and light centers",
+    "causes": ["Septoria lycopersici", "Wet foliage", "Infected debris", "Contaminated tools"],
+    "preventions": ["Crop rotation", "Remove infected leaves", "Avoid overhead watering", "Sanitize tools"],
+    "treatments": ["Apply fungicides", "Remove lower leaves", "Copper sprays", "Improve air flow"],
+    "organic_remedies": ["Baking soda solution", "Compost tea", "Sulfur", "Neem oil"],
+    "chemical_controls": ["Chlorothalonil", "Mancozeb", "Azoxystrobin", "Copper hydroxide"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves", "Stems"],
+    "season": "Warm humid weather"
+  },
+  "Tomato_Spider_mites": {
+    "description": "Tiny pests causing stippling and webbing on leaves",
+    "causes": ["Spider mite infestation", "Hot dry conditions", "Dusty environment", "Stress"],
+    "preventions": ["Regular monitoring", "Maintain humidity", "Remove weeds", "Avoid drought stress"],
+    "treatments": ["Apply miticides", "Water sprays", "Predatory mites", "Remove infested leaves"],
+    "organic_remedies": ["Neem oil", "Insecticidal soap", "Rosemary oil", "Diatomaceous earth"],
+    "chemical_controls": ["Abamectin", "Bifenazate", "Spiromesifen", "Etoxazole"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves"],
+    "season": "Hot dry periods"
+  },
+  "Tomato_Healthy": {
+    "description": "Healthy tomato plant with vigorous growth",
+    "causes": ["Good cultural practices", "Proper nutrition", "Adequate watering"],
+    "preventions": ["Regular care", "Balanced fertilizer", "Proper spacing", "Mulching"],
+    "treatments": ["Continue good practices", "Monitor regularly", "Water deeply", "Support plants"],
+    "organic_remedies": ["Compost", "Fish emulsion", "Seaweed extract", "Proper pruning"],
+    "chemical_controls": ["None needed"],
+    "severity": "None",
+    "affected_parts": "None",
+    "season": "All growing season"
+  },
+  "Potato_Early_blight": {
+    "description": "Dark brown spots with concentric rings on older leaves",
+    "causes": ["Alternaria solani", "Warm humid weather", "Plant stress", "Poor nutrition"],
+    "preventions": ["Crop rotation", "Proper fertilization", "Remove infected leaves", "Avoid overhead irrigation"],
+    "treatments": ["Apply fungicides", "Copper sprays", "Remove infected foliage", "Improve air circulation"],
+    "organic_remedies": ["Baking soda spray", "Copper fungicide", "Neem oil", "Compost tea"],
+    "chemical_controls": ["Chlorothalonil", "Azoxystrobin", "Mancozeb", "Pyraclostrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves", "Stems", "Tubers"],
+    "season": "Throughout season"
+  },
+  "Potato_Late_blight": {
+    "description": "Water-soaked lesions that spread rapidly in cool wet weather",
+    "causes": ["Phytophthora infestans", "Cool temperatures", "High humidity", "Infected seed potatoes"],
+    "preventions": ["Plant certified seed", "Proper spacing", "Hilling", "Remove volunteers"],
+    "treatments": ["Apply fungicides preventively", "Destroy infected plants", "Copper sprays", "Systemic fungicides"],
+    "organic_remedies": ["Copper fungicide", "Bordeaux mixture", "Improved drainage", "Early harvesting"],
+    "chemical_controls": ["Metalaxyl", "Cymoxanil", "Famoxadone", "Fluazinam"],
+    "severity": "High",
+    "affected_parts": ["Leaves", "Stems", "Tubers"],
+    "season": "Cool wet weather"
+  },
+  "Potato_Healthy": {
+    "description": "Healthy potato plant with no disease symptoms",
+    "causes": ["Good cultural practices", "Healthy seed", "Proper soil"],
+    "preventions": ["Crop rotation", "Healthy seed selection", "Proper hilling", "Weed control"],
+    "treatments": ["Regular monitoring", "Adequate watering", "Balanced fertilization", "Pest control"],
+    "organic_remedies": ["Compost", "Cover crops", "Proper mulching", "Companion planting"],
+    "chemical_controls": ["None needed"],
+    "severity": "None",
+    "affected_parts": "None",
+    "season": "All growing season"
+  },
+  "Corn_Common_rust": {
+    "description": "Reddish-brown pustules on leaves that rupture releasing spores",
+    "causes": ["Puccinia sorghi fungus", "Cool temperatures", "High humidity", "Susceptible varieties"],
+    "preventions": ["Plant resistant hybrids", "Proper spacing", "Avoid late planting", "Crop rotation"],
+    "treatments": ["Apply fungicides", "Remove infected debris", "Systemic fungicides", "Early detection"],
+    "organic_remedies": ["Sulfur dust", "Copper spray", "Neem oil", "Garlic extract"],
+    "chemical_controls": ["Azoxystrobin", "Propiconazole", "Tebuconazole", "Trifloxystrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves"],
+    "season": "Cool wet weather"
+  },
+  "Corn_Northern_Leaf_Blight": {
+    "description": "Gray-green elongated lesions that turn brown",
+    "causes": ["Exserohilum turcicum", "Wet conditions", "Infected residue", "Warm temperatures"],
+    "preventions": ["Resistant hybrids", "Tillage to bury residue", "Crop rotation", "Proper spacing"],
+    "treatments": ["Apply fungicides", "Remove infected plants", "Systemic fungicides", "Field sanitation"],
+    "organic_remedies": ["Copper fungicide", "Sulfur", "Neem oil", "Baking soda spray"],
+    "chemical_controls": ["Propiconazole", "Tebuconazole", "Azoxystrobin", "Pyraclostrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves"],
+    "season": "Warm humid weather"
+  },
+  "Corn_Healthy": {
+    "description": "Healthy corn plant with vigorous growth",
+    "causes": ["Good growing conditions", "Proper fertilization", "Adequate water"],
+    "preventions": ["Proper planting depth", "Adequate spacing", "Weed control", "Soil testing"],
+    "treatments": ["Regular monitoring", "Proper irrigation", "Balanced nutrition", "Pest management"],
+    "organic_remedies": ["Compost", "Cover crops", "Proper mulching", "Crop rotation"],
+    "chemical_controls": ["None needed"],
+    "severity": "None",
+    "affected_parts": "None",
+    "season": "All growing season"
+  },
+  "Grape_Black_rot": {
+    "description": "Brown circular lesions on leaves with black fruit rot",
+    "causes": ["Guignardia bidwellii", "Warm rainy periods", "Infected canes", "Poor air circulation"],
+    "preventions": ["Proper pruning", "Remove mummies", "Good air flow", "Site selection"],
+    "treatments": ["Apply fungicides", "Prune infected canes", "Copper sprays", "Sanitation"],
+    "organic_remedies": ["Sulfur", "Baking soda", "Neem oil", "Copper fungicide"],
+    "chemical_controls": ["Myclobutanil", "Trifloxystrobin", "Azoxystrobin", "Pyraclostrobin"],
+    "severity": "High",
+    "affected_parts": ["Leaves", "Fruits", "Canes"],
+    "season": "Warm rainy weather"
+  },
+  "Grape_Esca": {
+    "description": "Complex disease causing tiger-striped leaves and wood decay",
+    "causes": ["Multiple fungi", "Wounding", "Stress", "Old vines"],
+    "preventions": ["Avoid pruning wounds", "Proper pruning timing", "Vineyard sanitation", "Healthy planting material"],
+    "treatments": ["Prune out infected wood", "Protect pruning wounds", "Fungicide paints", "Remove diseased vines"],
+    "organic_remedies": ["Bordeaux paste", "Proper pruning techniques", "Vineyard hygiene", "Stress management"],
+    "chemical_controls": ["Tebuconazole", "Propiconazole", "Thiophanate-methyl", "Boscalid"],
+    "severity": "High",
+    "affected_parts": ["Leaves", "Wood", "Fruits"],
+    "season": "All year"
+  },
+  "Grape_Leaf_blight": {
+    "description": "Angular brown spots on leaves with yellow halos",
+    "causes": ["Pseudocercospora vitis", "Wet conditions", "Poor air flow", "High humidity"],
+    "preventions": ["Proper pruning", "Good air circulation", "Avoid overhead irrigation", "Remove infected leaves"],
+    "treatments": ["Apply fungicides", "Copper sprays", "Remove diseased foliage", "Improve vineyard hygiene"],
+    "organic_remedies": ["Copper fungicide", "Sulfur", "Baking soda spray", "Neem oil"],
+    "chemical_controls": ["Mancozeb", "Chlorothalonil", "Azoxystrobin", "Pyraclostrobin"],
+    "severity": "Medium",
+    "affected_parts": ["Leaves"],
+    "season": "Wet periods"
+  },
+  "Grape_Healthy": {
+    "description": "Healthy grape vine with no disease symptoms",
+    "causes": ["Good vineyard management", "Proper pruning", "Healthy soil"],
+    "preventions": ["Regular monitoring", "Proper training", "Weed control", "Soil management"],
+    "treatments": ["Continue good practices", "Regular pruning", "Balanced nutrition", "Water management"],
+    "organic_remedies": ["Compost", "Cover crops", "Proper mulching", "Companion planting"],
+    "chemical_controls": ["None needed"],
+    "severity": "None",
+    "affected_parts": "None",
+    "season": "All year"
+  }
+}
