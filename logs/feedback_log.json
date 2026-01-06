@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "contact": "+1 (555) 123-4567",
+    "category": "bug",
+    "rating": "4",
+    "subject": "Found a bug in disease detection",
+    "message": "I found an issue where the system incorrectly identifies healthy leaves as diseased. Here are the steps to reproduce:\n1. Upload a clear image of a healthy tomato leaf\n2. Run detection\n3. System shows \"Late Blight\" with 85% confidence\n\nExpected: Should show \"Healthy\"",
+    "subscribe": true,
+    "timestamp": "2026-01-04T01:30:11.859065",
+    "reference_id": "FB-20260104-0411"
+  },
+  {
+    "name": "System Test",
+    "email": "test@system.com",
+    "contact": "Test Contact",
+    "category": "test",
+    "subject": "System Test Email",
+    "message": "This is an automated test of the email system.",
+    "rating": "5",
+    "subscribe": true,
+    "timestamp": "2026-01-04T01:41:29.288934",
+    "reference_id": "FB-20260104-0002"
+  }
+]
